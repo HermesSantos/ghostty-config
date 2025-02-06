@@ -1,5 +1,8 @@
+theme = noctis-azureus
 fullscreen = true
+
 background = #0f0f11
+background-blur-radius = 15
 
 keybind = alt+shift+r=reload_config
 keybind = alt+shift+l=new_split:right
@@ -14,3 +17,5 @@ keybind = alt+k=goto_split:up
 keybind = alt+shift+e=equalize_splits
 
 confirm-close-surface = false
+
+mouse-hide-while-typing = true
