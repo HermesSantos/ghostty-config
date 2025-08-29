@@ -1,8 +1,8 @@
 fullscreen = true
-theme = catppuccin-mocha
+theme = Belafonte Night
 
-background = #0f0f11
-background-blur-radius = 15
+background-opacity = 0.9
+background-blur = true
 
 keybind = alt+shift+r=reload_config
 keybind = alt+shift+l=new_split:right
@@ -17,8 +17,8 @@ keybind = alt+k=goto_split:up
 keybind = alt+shift+e=equalize_splits
 
 font-size = 11
-#font-family = VictorMono Nerd Font
-#font-style = Bold
+font-family = Iosevka Term
+font-style = bold
 #font-style-italic = SemiBold Italic
 
 confirm-close-surface = false
